@@ -19,5 +19,6 @@ int main()
             ++nw;
         }
     }
-    printf("%d %d %d\n", nl, nw, nc);
+    printf("\n");
+    printf("Line:%d, World:%d, countChar:%d\n", nl, nw, nc);
 }
