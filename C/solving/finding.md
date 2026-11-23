@@ -5,4 +5,7 @@ Exercise1-6
     A or Enter
 
 Exercise1-7
-- EOF value is -1 because EOF is store value (-1)
+- EOF value is -1 because EOF is store value -1 (EOF is a macro defined as (-1) in stdio.h) 
+
+Exercise1-15
+- When a function does not return a value, use void .void = function returns no value; other types = returns a value
